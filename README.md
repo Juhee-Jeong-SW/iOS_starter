@@ -1,3 +1,3 @@
-# 📓 iOS 처음 시작하기
+# 📓 iOS for starter
 --- 
 All contents in this repository are from Yagom.net.
