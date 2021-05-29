@@ -31,6 +31,31 @@ A category of programming in which the flow of the app is determined by events :
   - Keyboard and Menu: 키보드 입력을 처리 및 사용자 정의 메뉴 표시
 
 * @IBAction : 클래스의 액션 메서드와 인터페이스 빌더의 이벤트를 연결하기 위해 메서드 앞에 붙이는 어노테이션
+
 * @IBOutlet : 클래스의 프로퍼티와 인터페이스 빌더의 요소를 연결하기 위해 프로퍼티 앞에 붙이는 어노테이션
 
 * Asset : Xcode에서 앱에 사용될 리소스(이미지, 음악 파일 등)의 집합을 나타내는 요소
+
+
+
+## Asset
+
+A tool to manage assets like images that are used by your app as part of its user interface(UI).
+
+Asset catalogs simplify access to app resources by mapping between names assets and one or more files targeted for different device attribute.
+
+* Asset Catalog : Asset을 모아둔 것.
+* Asset을 사용하는 이유? 해상도에 따라 여러 크기의 이미지를 활용해야 할 때, asset을 통해 여러 벌의 이미지를 손쉽게 관리.
+* Asset Types
+  * App Icon
+  * Color set
+  * Date Set : Sounds, Docs, Videos...
+  * Image set
+  * Launch image
+  * Sticker
+  * Watch complication
+
+
+
+
+
